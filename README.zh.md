@@ -127,17 +127,3 @@ python gopro_highlight.py /path/to/base --outdir ~/clips --recursive --csv summa
 ## 贡献与开发 🤝
 
 欢迎提交问题或 PR。若添加新的运行时依赖，请同时更新 `requirements.txt` 并在 README 中说明用途。
-
----
-
-## 许可证
-
-请在此处添加你的许可证信息（当前仓库未指定 licence）。
-
----
-
-如需我继续：
-- 我可以把中文 `README.zh.md` 链接加入主 `README.md`（英文版），或者
-- 我可以在仓库中加入一份简短的自动化检查用例（smoke test）来验证 `process_directory` 的基本行为。
-
-告诉我你想要我接着做哪项。
