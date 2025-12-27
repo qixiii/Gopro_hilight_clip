@@ -148,18 +148,4 @@ python gopro_highlight.py /path/to/base --outdir ~/clips --recursive --csv summa
 - Bug reports and PRs welcome. Small, focused PRs are easiest to review.
 - If you add new runtime dependencies, update `requirements.txt` and document their purpose here.
 
----
 
-## License
-
-Include your preferred license here. (No license is specified in this repo by default.)
-
----
-
-If you'd like, I can:
-
-- Add usage screenshots for the GUI
-- Add a simple unit-test or an automated smoke test for `process_directory`
-- Convert the README into Chinese translation as well
-
-Tell me which additions you'd like and I'll update the README accordingly.
