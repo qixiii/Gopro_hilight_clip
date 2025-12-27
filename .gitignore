@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage
+htmlcov/
+.coverage
+
+# Test and IDE
+.pytest_cache/
+
+# Windows binaries and release artifacts
+win-bins/
+*.exe
+
+# Media files (do NOT commit or push video/audio files)
+# Ignore common video/audio formats to avoid uploading large media files
+*.mp4
+*.mov
+*.mkv
+*.lrv
+*.avi
+*.flv
+*.wmv
+
+# Ignore video files in project subfolders but allow non-media files (e.g. CSV summaries)
+highlight/*.mp4
+
+# Often-used source media directories (local only)
+base/
+
+# Misc
+.local/

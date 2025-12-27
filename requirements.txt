@@ -1,0 +1,21 @@
+# Runtime Python dependencies for GoPro Highlight Extractor
+# -----------------------------------------------
+# NOTE: This project currently relies only on the Python standard library
+# for its core functionality (file handling, subprocess calls to ffmpeg, GUI
+# using tkinter). Therefore there are NO mandatory Python packages to install
+# via pip for the main runtime.
+#
+# System (OS) dependencies required at runtime:
+#   - ffmpeg and ffprobe  (install via your package manager, e.g. `sudo apt install ffmpeg`)
+#
+# Optional runtime packages (uncomment and install if you want these features):
+# requests==2.31.0      # HTTP client library (not used by current code)
+# tqdm==4.65.0          # Nice CLI progress bars (optional)
+#
+# Optional packaging helper (dev/use when building standalone binary):
+# pyinstaller==5.13.0   # Create standalone executables
+#
+# To install optional packages, remove the leading '#' and run:
+#   pip install -r requirements.txt
+#
+# End of file

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=GoPro Highlights
+Comment=Run GoPro highlight GUI (project virtualenv)
+Exec=/home/qixi/code/run_gopro_highlight_terminal.sh
+Icon=/home/qixi/code/gopro_icon.svg
+Terminal=true
+Categories=Utility;Video;
